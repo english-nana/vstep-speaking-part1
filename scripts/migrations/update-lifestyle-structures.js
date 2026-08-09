@@ -1,7 +1,9 @@
 const fs = require('fs');
+const path = require('path');
+const groupPath = path.resolve(__dirname, '..', '..', 'data', 'group1.js');
 
 try {
-  let content = fs.readFileSync('data/group1.js', 'utf8');
+  let content = fs.readFileSync(groupPath, 'utf8');
   let match = content.match(/var\s+group1\s*=\s*(\{[\s\S]*?\});?\s*$/);
   if (!match) throw new Error("Could not parse group1.js");
 
@@ -32,7 +34,7 @@ try {
   }
 
   const newContent = 'var group1 = ' + JSON.stringify(group1Data, null, 2) + ';\n';
-  fs.writeFileSync('data/group1.js', newContent, 'utf8');
+  fs.writeFileSync(groupPath, newContent, 'utf8');
   console.log("Updated group1.js successfully.");
 } catch (e) {
   console.error("Error:", e);

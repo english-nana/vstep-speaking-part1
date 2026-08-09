@@ -138,62 +138,38 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Going to the gym",
-              "Stay healthy",
-              "Reduce stress"
+              "Doing exercise frequently",
+              "Every morning",
+              "Stay healthy & positive mind"
             ],
             "b2": [
-              "Going to the gym",
-              "Stay active / Reduce stress",
-              "Improve mood / Build discipline"
-            ],
-            "c1": [
-              "Drinking water every morning",
-              "Helps body wake up",
-              "Feel less sluggish",
-              "Completely automatic"
+              "Exercising regularly (gym / walk)",
+              "Start day with positive mindset",
+              "Keep mind sharp & work productively"
             ]
           },
           "b1": [
             {
-              "en": "Let me see, one good habit that I have is going to the gym regularly.",
-              "vi": "Để xem nào, một thói quen tốt mà tôi có là đi tập gym thường xuyên."
+              "en": "One good habit that I have is doing exercise frequently.",
+              "vi": "Một thói quen tốt mà tôi có là tập thể dục thường xuyên."
             },
             {
-              "en": "It helps me stay healthy and reduce stress.",
-              "vi": "Nó giúp tôi giữ gìn sức khoẻ và giảm căng thẳng."
+              "en": "I do it every morning because I believe it helps me stay healthy and have a positive mind.",
+              "vi": "Tôi làm việc đó mỗi sáng vì tôi tin rằng nó giúp tôi giữ gìn sức khỏe và có một tinh thần tích cực."
             }
           ],
           "b2": [
             {
-              "en": "I would say one good habit that I have is going to the gym regularly.",
-              "vi": "Tôi muốn nói một thói quen tốt mà tôi có là đi tập gym thường xuyên."
+              "en": "Let me see, one good habit that I have is exercising regularly.",
+              "vi": "Để xem nào, một thói quen tốt mà tôi có là tập thể dục thường xuyên."
             },
             {
-              "en": "It helps me stay active, reduce stress after studying, and improve my mood.",
-              "vi": "Nó giúp tôi duy trì sự năng động, giảm căng thẳng sau khi học và cải thiện tâm trạng."
+              "en": "I usually work out at the gym or go for a walk every morning because it helps me stay healthy and start my day with a positive mindset.",
+              "vi": "Tôi thường tập gym hoặc đi dạo mỗi sáng vì nó giúp tôi giữ gìn sức khỏe và bắt đầu ngày mới với một tư duy tích cực."
             },
             {
-              "en": "It’s also a good way to build discipline.",
-              "vi": "Đó cũng là một cách tốt để xây dựng tính kỷ luật."
-            }
-          ],
-          "c1": [
-            {
-              "en": "I would say one good habit that I have is drinking a glass of water first thing every morning.",
-              "vi": "Tôi muốn nói một thói quen tốt mà tôi có là uống một cốc nước ngay khi vừa thức dậy mỗi sáng."
-            },
-            {
-              "en": "Actually, my mom told me to start doing that, and it really helps my body wake up.",
-              "vi": "Thực ra, mẹ tôi đã bảo tôi bắt đầu làm điều đó, và nó thực sự giúp cơ thể tôi tỉnh táo."
-            },
-            {
-              "en": "It's not a huge change or anything, but it makes me feel less sluggish before I start my day.",
-              "vi": "Nó không phải là một sự thay đổi lớn lao gì cả, nhưng nó khiến tôi cảm thấy bớt lờ đờ hơn trước khi bắt đầu ngày mới."
-            },
-            {
-              "en": "Now, it's just completely automatic for me.",
-              "vi": "Bây giờ, nó đã trở thành một việc hoàn toàn tự động đối với tôi."
+              "en": "It keeps my mind sharp and I can work more productively.",
+              "vi": "Nó giúp trí óc tôi minh mẫn và tôi có thể làm việc hiệu quả hơn."
             }
           ]
         },
@@ -204,61 +180,47 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Go with friends",
-              "Fun & easier"
+              "Make it a daily routine",
+              "Set an alarm at 6 a.m.",
+              "Get up on time & exercise"
             ],
             "b2": [
-              "Weekly schedule",
-              "Go with friends (motivated)",
-              "Remind myself (healthy & unwind)"
-            ],
-            "c1": [
-              "Keep it super simple",
-              "Mom reminded me -> became routine",
-              "Before checking phone -> walk to kitchen",
-              "Don't have to think about it"
+              "Part of daily routine",
+              "Set alarm every night",
+              "Become natural habit",
+              "Discipline is key factor"
             ]
           },
           "b1": [
             {
-              "en": "I maintain this habit by going to the gym with my friends.",
-              "vi": "Tôi duy trì thói quen này bằng cách đi tập gym với bạn bè."
+              "en": "I maintain this habit by making it a daily routine.",
+              "vi": "Tôi duy trì thói quen này bằng cách biến nó thành thói quen hàng ngày."
             },
             {
-              "en": "It makes it more fun and easier to continue.",
-              "vi": "Nó làm cho việc tập luyện vui hơn và dễ dàng tiếp tục hơn."
+              "en": "I mean, usually before going to bed, I always set an alarm at 6 a.m. the next morning.",
+              "vi": "Ý tôi là, thường trước khi đi ngủ, tôi luôn đặt báo thức lúc 6 giờ sáng ngày hôm sau."
+            },
+            {
+              "en": "I try to get up on time and do exercise.",
+              "vi": "Tôi cố gắng dậy đúng giờ và tập thể dục."
             }
           ],
           "b2": [
             {
-              "en": "I maintain this habit by making a weekly schedule and trying to follow it.",
-              "vi": "Tôi duy trì thói quen này bằng cách lập một lịch trình hàng tuần và cố gắng làm theo nó."
+              "en": "Personally speaking, I maintain this habit by making it part of my daily routine.",
+              "vi": "Cá nhân tôi mà nói, tôi duy trì thói quen này bằng cách biến nó thành một phần trong thói quen hàng ngày của mình."
             },
             {
-              "en": "Sometimes, I go with my friends so I feel more motivated.",
-              "vi": "Đôi khi, tôi đi cùng bạn bè nên tôi cảm thấy có động lực hơn."
+              "en": "Before going to bed, I always set an alarm for the next morning.",
+              "vi": "Trước khi đi ngủ, tôi luôn đặt báo thức cho sáng hôm sau."
             },
             {
-              "en": "Also, I remind myself that it helps me stay healthy and unwind.",
-              "vi": "Ngoài ra, tôi nhắc nhở bản thân rằng nó giúp tôi giữ gìn sức khoẻ và thư giãn."
-            }
-          ],
-          "c1": [
-            {
-              "en": "The main reason it's easy to maintain is that I keep it super simple.",
-              "vi": "Lý do chính khiến nó dễ duy trì là tôi giữ nó cực kỳ đơn giản."
+              "en": "After doing it for a long time, it has become a natural habit for me.",
+              "vi": "Sau khi làm việc này một thời gian dài, nó đã trở thành một thói quen tự nhiên đối với tôi."
             },
             {
-              "en": "At first, my mom kept reminding me every morning, so it slowly became a part of my routine.",
-              "vi": "Ban đầu, mẹ tôi liên tục nhắc nhở tôi mỗi sáng, thế nên nó dần trở thành một phần trong thói quen của tôi."
-            },
-            {
-              "en": "You know, before I even check my phone or start getting ready, I just walk to the kitchen and pour a glass for myself.",
-              "vi": "Bạn biết đấy, trước cả khi tôi kiểm tra điện thoại hoặc bắt đầu chuẩn bị, tôi chỉ việc đi đến bếp và rót cho mình một cốc."
-            },
-            {
-              "en": "I don't really have to think about it anymore.",
-              "vi": "Tôi thực sự không còn phải bận tâm suy nghĩ về điều đó nữa."
+              "en": "However, I think to maintain a habit for a long time, discipline is the most important factor.",
+              "vi": "Tuy nhiên, tôi nghĩ để duy trì một thói quen lâu dài, kỷ luật là yếu tố quan trọng nhất."
             }
           ]
         },
@@ -269,53 +231,49 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Staying up late",
-              "Feel tired in the morning"
+              "Going to bed late (after midnight)",
+              "Not good for health"
             ],
             "b2": [
-              "Staying up late",
-              "Affects health / Exhausted",
-              "Sleep earlier -> Energy & focus"
-            ],
-            "c1": [
-              "Checking phone immediately after waking up",
-              "Scrolling notifications before getting out of bed",
-              "Wasting a lot of time",
-              "Not a great way to start the day"
+              "Staying up late (2-3 a.m.)",
+              "Affects physical health & concentration",
+              "Trying to sleep earlier"
             ]
           },
           "b1": [
             {
-              "en": "Yes, I want to change my habit of staying up late because it makes me feel tired in the morning.",
-              "vi": "Có, tôi muốn thay đổi thói quen thức khuya vì nó khiến tôi cảm thấy mệt mỏi vào buổi sáng."
+              "en": "Yes, there is.",
+              "vi": "Vâng, có chứ."
+            },
+            {
+              "en": "The habit that I would like to change is going to bed late.",
+              "vi": "Thói quen mà tôi muốn thay đổi là đi ngủ muộn."
+            },
+            {
+              "en": "I usually go to bed after midnight, even 2 or 3 a.m. sometimes.",
+              "vi": "Tôi thường đi ngủ sau nửa đêm, đôi khi thậm chí là 2 hoặc 3 giờ sáng."
+            },
+            {
+              "en": "I want to change this habit because it’s not good for my health.",
+              "vi": "Tôi muốn thay đổi thói quen này vì nó không tốt cho sức khỏe của tôi."
             }
           ],
           "b2": [
             {
-              "en": "Yes, I would like to change my habit of staying up late because it affects my health and makes me feel exhausted the next day.",
-              "vi": "Có, tôi muốn thay đổi thói quen thức khuya vì nó ảnh hưởng đến sức khoẻ của tôi và khiến tôi cảm thấy kiệt sức vào ngày hôm sau."
+              "en": "Yes, of course.",
+              "vi": "Vâng, tất nhiên rồi."
             },
             {
-              "en": "I want to sleep earlier so I can have more energy and focus better on my studies.",
-              "vi": "Tôi muốn ngủ sớm hơn để có thể có nhiều năng lượng hơn và tập trung tốt hơn vào việc học."
-            }
-          ],
-          "c1": [
-            {
-              "en": "Well, I suppose one habit I really want to change is checking my phone immediately after I wake up.",
-              "vi": "Chà, tôi cho rằng một thói quen tôi thực sự muốn thay đổi là việc kiểm tra điện thoại ngay lập tức sau khi tôi thức dậy."
+              "en": "I would like to change my habit of staying up late.",
+              "vi": "Tôi muốn thay đổi thói quen thức khuya của mình."
             },
             {
-              "en": "You know, I always grab my phone and start scrolling through notifications before I even get out of bed.",
-              "vi": "Bạn biết đấy, tôi luôn vớ lấy chiếc điện thoại và bắt đầu lướt đọc các thông báo trước cả khi tôi rời khỏi giường."
+              "en": "I often go to bed after midnight, sometimes even at 2 or 3 a.m.",
+              "vi": "Tôi thường đi ngủ sau nửa đêm, đôi khi thậm chí là 2 hoặc 3 giờ sáng."
             },
             {
-              "en": "I tell myself it's just for a minute, but it never really is.",
-              "vi": "Tôi luôn tự nhủ rằng chỉ xem một phút thôi, nhưng thực tế thì chưa bao giờ là vậy cả."
-            },
-            {
-              "en": "I end up wasting a lot of time, which obviously isn't a great way to start the day.",
-              "vi": "Tôi rốt cuộc đã làm lãng phí rất nhiều thời gian, điều mà rõ ràng không phải là một cách hay để bắt đầu ngày mới."
+              "en": "I know this habit affects my physical health and my concentration during the day, so I'm trying to sleep earlier.",
+              "vi": "Tôi biết thói quen này ảnh hưởng đến sức khỏe thể chất và sự tập trung của tôi vào ban ngày, nên tôi đang cố gắng ngủ sớm hơn."
             }
           ]
         }
@@ -443,34 +401,38 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Yes",
-              "Gym",
-              "Stay healthy"
+              "Don't exercise often",
+              "Stay up late & busy with school",
+              "Not much time"
             ],
             "b2": [
-              "Yes, regularly (gym)",
-              "Stay active / Blow off steam",
-              "Afternoon (after schoolwork)"
+              "Rarely exercise (stay up late)",
+              "Difficult in the morning",
+              "Trying to sleep earlier & do light exercise"
             ]
           },
           "b1": [
             {
-              "en": "Yes, I often exercise, especially going to the gym because it helps me stay healthy.",
-              "vi": "Có, tôi thường xuyên tập thể dục, đặc biệt là đi tập gym vì nó giúp tôi giữ gìn sức khoẻ."
+              "en": "No, I don’t.",
+              "vi": "Không, tôi không."
+            },
+            {
+              "en": "I don’t do exercise very often because I usually stay up late and I’m usually very busy with my studies at school.",
+              "vi": "Tôi không tập thể dục thường xuyên vì tôi thường thức khuya và thường rất bận rộn với việc học ở trường."
+            },
+            {
+              "en": "That’s why I don’t have much time to do it.",
+              "vi": "Đó là lý do tại sao tôi không có nhiều thời gian để tập."
             }
           ],
           "b2": [
             {
-              "en": "Yes, I exercise regularly, especially at the gym.",
-              "vi": "Có, tôi tập thể dục thường xuyên, đặc biệt là ở phòng gym."
+              "en": "Unfortunately no, I don’t often do exercise because I have a bad habit of staying up late, so it’s a bit difficult for me to exercise in the morning.",
+              "vi": "Thật không may là không, tôi không thường xuyên tập thể dục vì tôi có thói quen xấu là thức khuya, nên việc tập thể dục vào buổi sáng hơi khó khăn đối với tôi."
             },
             {
-              "en": "It helps me stay active, blow off some steam, and improve my physical health.",
-              "vi": "Nó giúp tôi duy trì sự năng động, xả hơi và cải thiện sức khoẻ thể chất."
-            },
-            {
-              "en": "I usually go in the afternoon, after I finish my schoolwork to unwind after studying.",
-              "vi": "Tôi thường đi vào buổi chiều, sau khi hoàn thành bài tập ở trường để thư giãn sau khi học."
+              "en": "However, I’m aware that doing exercise is a good habit, so I’m trying to sleep earlier and do some light exercises more frequently.",
+              "vi": "Tuy nhiên, tôi nhận thức được rằng tập thể dục là một thói quen tốt, vì vậy tôi đang cố gắng ngủ sớm hơn và thực hiện một số bài tập nhẹ thường xuyên hơn."
             }
           ]
         },
@@ -481,34 +443,42 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "With friends",
-              "More fun"
+              "Prefer with others / close friend",
+              "More fun & motivating",
+              "Have someone to talk to"
             ],
             "b2": [
-              "With friends",
-              "Enjoyable & motivating",
-              "Support each other / Fun",
-              "Sometimes alone (focus)"
+              "Prefer alone (flexible time & type)",
+              "No need to wait for anyone",
+              "With friends is also enjoyable (football/gym)"
             ]
           },
           "b1": [
             {
-              "en": "If I have to say, I prefer exercising with my friends because it is more fun.",
-              "vi": "Nếu tôi phải nói thì, tôi thích tập thể dục với bạn bè hơn vì nó vui hơn."
+              "en": "I prefer doing exercise with others, for example with my close friend because it’s more fun and motivating.",
+              "vi": "Tôi thích tập thể dục cùng người khác hơn, ví dụ như với bạn thân của tôi vì điều đó vui hơn và tạo động lực hơn."
+            },
+            {
+              "en": "I mean, I will have someone to talk to while doing exercise.",
+              "vi": "Ý tôi là, tôi sẽ có ai đó để trò chuyện trong khi tập thể dục."
             }
           ],
           "b2": [
             {
-              "en": "If I have to say, I prefer exercising with my friends because it is more enjoyable and motivating.",
-              "vi": "Nếu tôi phải nói thì, tôi thích tập thể dục với bạn bè hơn vì nó thú vị và tạo động lực hơn."
+              "en": "I prefer exercising alone, to be honest.",
+              "vi": "Thành thật mà nói, tôi thích tập thể dục một mình hơn."
             },
             {
-              "en": "We can support each other and have fun at the same time.",
-              "vi": "Chúng tôi có thể hỗ trợ lẫn nhau và cùng nhau vui vẻ."
+              "en": "The main reason is that I can choose the type of exercise and the time that works best for me.",
+              "vi": "Lý do chính là tôi có thể chọn hình thức tập luyện và thời gian phù hợp nhất với mình."
             },
             {
-              "en": "However, sometimes I like working out alone to focus better.",
-              "vi": "Tuy nhiên, đôi khi tôi thích tập luyện một mình để tập trung tốt hơn."
+              "en": "For example, I can go for a walk or do some simple exercises at home without having to wait for anyone else.",
+              "vi": "Ví dụ, tôi có thể đi dạo hoặc tập một số bài tập đơn giản tại nhà mà không cần phải chờ đợi ai khác."
+            },
+            {
+              "en": "Having said that, I still think exercising with friends is very enjoyable and motivating, especially when I'm doing something like playing football or going to the gym.",
+              "vi": "Dù nói vậy, tôi vẫn nghĩ tập thể dục với bạn bè rất thú vị và tạo động lực, đặc biệt là khi tôi chơi bóng đá hoặc đi tập gym."
             }
           ]
         },
@@ -519,29 +489,50 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Yes",
-              "Stay healthy & keep fit"
+              "Very important (many benefits)",
+              "Stay healthy & keep fit",
+              "Reduce stress"
             ],
             "b2": [
-              "Yes, very important",
-              "Physical health / Reduce stress",
-              "Boost mood / More energy"
+              "Keep body & mind healthy",
+              "Improve physical health & deal with stress",
+              "Gym helps feel positive & energetic"
             ]
           },
           "b1": [
             {
-              "en": "Yes, I believe exercise is important because it helps us stay healthy and keep fit.",
-              "vi": "Có, tôi tin rằng tập thể dục là quan trọng vì nó giúp chúng ta giữ gìn sức khoẻ và giữ dáng."
+              "en": "Yes, definitely.",
+              "vi": "Vâng, chắc chắn rồi."
+            },
+            {
+              "en": "I think exercise is very important because it has many benefits.",
+              "vi": "Tôi nghĩ tập thể dục rất quan trọng vì nó mang lại nhiều lợi ích."
+            },
+            {
+              "en": "For example, it helps us stay healthy and keep fit.",
+              "vi": "Ví dụ, nó giúp chúng ta giữ gìn sức khỏe và giữ dáng."
+            },
+            {
+              "en": "It’s also a good way to reduce stress.",
+              "vi": "Đó cũng là một cách tốt để giảm căng thẳng."
             }
           ],
           "b2": [
             {
-              "en": "Yes, I believe exercise is very important because it helps improve physical health, reduce stress, and boost mood.",
-              "vi": "Có, tôi tin rằng tập thể dục rất quan trọng vì nó giúp cải thiện sức khoẻ thể chất, giảm căng thẳng và cải thiện tâm trạng."
+              "en": "Yes, definitely.",
+              "vi": "Vâng, chắc chắn rồi."
             },
             {
-              "en": "It also helps us stay active and have more energy for daily activities.",
-              "vi": "Nó cũng giúp chúng ta duy trì sự năng động và có nhiều năng lượng hơn cho các hoạt động hàng ngày."
+              "en": "I think exercise plays an important role in keeping our body and mind healthy.",
+              "vi": "Tôi nghĩ tập thể dục đóng một vai trò quan trọng trong việc giữ cho cơ thể và trí óc của chúng ta khỏe mạnh."
+            },
+            {
+              "en": "I believe so because regular exercise can improve our physical health and also help us deal with stress more effectively.",
+              "vi": "Tôi tin như vậy vì tập thể dục thường xuyên có thể cải thiện sức khỏe thể chất và cũng giúp chúng ta xử lý căng thẳng hiệu quả hơn."
+            },
+            {
+              "en": "For example, whenever I feel stressed, I will try to work out at the gym a few times a week, which helps me feel more positive and energetic.",
+              "vi": "Ví dụ, bất cứ khi nào cảm thấy căng thẳng, tôi sẽ cố gắng tập gym vài lần một tuần, điều này giúp tôi cảm thấy tích cực và tràn đầy năng lượng hơn."
             }
           ]
         }
@@ -559,33 +550,41 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Yes",
-              "Exercise & eat well"
+              "Not really (bad habits)",
+              "Stay up late (2-3 a.m.)"
             ],
             "b2": [
-              "Yes",
-              "Exercise / Eat healthy / Rest",
-              "Stay fit & energetic"
+              "Fairly healthy (balanced lifestyle)",
+              "Diet & sleep focus",
+              "Eat fruit & vegetables, get enough sleep"
             ]
           },
           "b1": [
             {
-              "en": "Yes, I think I am quite healthy because I exercise and eat well.",
-              "vi": "Có, tôi nghĩ tôi khá khoẻ mạnh vì tôi tập thể dục và ăn uống tốt."
+              "en": "No, not really.",
+              "vi": "Không, không hẳn."
             },
             {
-              "en": "These habits help me stay healthy.",
-              "vi": "Những thói quen này giúp tôi giữ gìn sức khoẻ."
+              "en": "I don’t think I am a healthy person because I have a lot of bad habits.",
+              "vi": "Tôi không nghĩ mình là một người khỏe mạnh vì tôi có nhiều thói quen xấu."
+            },
+            {
+              "en": "For example, I usually stay up late.",
+              "vi": "Ví dụ, tôi thường xuyên thức khuya."
+            },
+            {
+              "en": "Some days, I even stay up until 2 or 3 in the morning.",
+              "vi": "Có những ngày, tôi thậm chí còn thức đến 2 hoặc 3 giờ sáng."
             }
           ],
           "b2": [
             {
-              "en": "Yes, I think I am quite a healthy person because I try to exercise regularly, eat healthy food, and get enough rest.",
-              "vi": "Có, tôi nghĩ mình là một người khá khoẻ mạnh vì tôi cố gắng tập thể dục thường xuyên, ăn thức ăn lành mạnh và nghỉ ngơi đủ."
+              "en": "Yes, I would say I'm a fairly healthy person because I try to maintain a balanced lifestyle, especially when it comes to my diet and sleep.",
+              "vi": "Có, tôi sẽ nói rằng tôi là một người khá khỏe mạnh vì tôi cố gắng duy trì một lối sống cân bằng, đặc biệt là về chế độ ăn uống và giấc ngủ."
             },
             {
-              "en": "These habits help me stay fit and feel more energetic.",
-              "vi": "Những thói quen này giúp tôi giữ dáng và cảm thấy tràn đầy năng lượng hơn."
+              "en": "For example, I eat quite a lot of fruit and vegetables, and I try to get enough sleep instead of staying up too late.",
+              "vi": "Ví dụ, tôi ăn khá nhiều trái cây và rau củ, và tôi cố gắng ngủ đủ giấc thay vì thức quá khuya."
             }
           ]
         },
@@ -596,33 +595,41 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Exercise & eat healthy",
-              "Sleep early"
+              "Healthy diet (vegetables, fruit, water)",
+              "Daily exercise"
             ],
             "b2": [
-              "Gym / Balanced diet / Sleep",
-              "Avoid fast food",
-              "Relax (reduce stress)"
+              "Eating well, sleep, physical activity",
+              "Maintain energy levels & avoid fatigue",
+              "Fresh food instead of fast food & walk/exercise at home"
             ]
           },
           "b1": [
             {
-              "en": "Let me see, I exercise regularly and eat healthy food.",
-              "vi": "Để tôi xem nào, tôi tập thể dục thường xuyên và ăn thức ăn lành mạnh."
+              "en": "To maintain good health and a fit body, I always try to have a healthy diet.",
+              "vi": "Để duy trì sức khỏe tốt và cơ thể cân đối, tôi luôn cố gắng có một chế độ ăn uống lành mạnh."
             },
             {
-              "en": "I also try to sleep early.",
-              "vi": "Tôi cũng cố gắng ngủ sớm."
+              "en": "I mean, I eat a lot of vegetables, fruit, and drink enough water every day.",
+              "vi": "Ý tôi là, tôi ăn nhiều rau củ, trái cây và uống đủ nước mỗi ngày."
+            },
+            {
+              "en": "I also do exercise every day.",
+              "vi": "Tôi cũng tập thể dục mỗi ngày."
             }
           ],
           "b2": [
             {
-              "en": "To maintain good health, I usually go to the gym, have a balanced diet, and get enough sleep.",
-              "vi": "Để duy trì sức khoẻ tốt, tôi thường đi tập gym, có một chế độ ăn uống cân bằng và ngủ đủ giấc."
+              "en": "I mainly focus on eating well, getting enough sleep, and staying physically active.",
+              "vi": "Tôi chủ yếu tập trung vào việc ăn uống tốt, ngủ đủ giấc và duy trì hoạt động thể chất."
             },
             {
-              "en": "I also try to avoid too much fast food and spend time relaxing to reduce stress.",
-              "vi": "Tôi cũng cố gắng tránh ăn quá nhiều đồ ăn nhanh và dành thời gian thư giãn để giảm căng thẳng."
+              "en": "I think these things are important because they help me maintain my energy levels and avoid feeling tired all the time.",
+              "vi": "Tôi nghĩ những điều này rất quan trọng vì chúng giúp tôi duy trì mức năng lượng và tránh cảm giác mệt mỏi suốt cả ngày."
+            },
+            {
+              "en": "For example, I try to eat more fresh food instead of fast food, and I usually go for a walk or do some simple exercises at home.",
+              "vi": "Ví dụ, tôi cố gắng ăn nhiều thực phẩm tươi thay vì đồ ăn nhanh, và tôi thường đi dạo hoặc làm một số bài tập đơn giản tại nhà."
             }
           ]
         },
@@ -633,38 +640,47 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Feel better",
-              "Do daily activities",
-              "Positive & energetic"
+              "Don't get sick often",
+              "Comfortable, relaxed & full of energy",
+              "Work & study effectively"
             ],
             "b2": [
-              "More energy / Enjoy life",
-              "Study & work effectively",
-              "Reduce risk of getting sick"
+              "More energy & enjoy life",
+              "Work/study without sick worries",
+              "Productive during day & reduce stress",
+              "Improve quality of life"
             ]
           },
           "b1": [
             {
-              "en": "In my opinion, good health helps us feel better and do daily activities easily.",
-              "vi": "Theo ý kiến của tôi, sức khoẻ tốt giúp chúng ta cảm thấy tốt hơn và làm các hoạt động hàng ngày dễ dàng."
+              "en": "I think having good health brings many benefits.",
+              "vi": "Tôi nghĩ việc có sức khỏe tốt mang lại nhiều lợi ích."
             },
             {
-              "en": "When we have good health, we feel more positive and energetic.",
-              "vi": "Khi có sức khoẻ tốt, chúng ta cảm thấy tích cực và tràn đầy năng lượng hơn."
+              "en": "Firstly, when you have good health, you don’t get sick very often.",
+              "vi": "Đầu tiên, khi bạn có sức khỏe tốt, bạn sẽ không bị ốm thường xuyên."
+            },
+            {
+              "en": "Moreover, you feel very comfortable, relaxed, and full of energy, so you can work and study more effectively.",
+              "vi": "Hơn nữa, bạn cảm thấy rất thoải mái, thư giãn và tràn đầy năng lượng, vì vậy bạn có thể làm việc và học tập hiệu quả hơn."
             }
           ],
           "b2": [
             {
-              "en": "From my perspective, good health allows us to have more energy and enjoy life.",
-              "vi": "Từ góc độ của tôi, sức khoẻ tốt cho phép chúng ta có nhiều năng lượng hơn và tận hưởng cuộc sống."
+              "en": "I think good health gives us more energy and allows us to enjoy life more.",
+              "vi": "Tôi nghĩ sức khỏe tốt mang lại cho chúng ta nhiều năng lượng hơn và cho phép chúng ta tận hưởng cuộc sống nhiều hơn."
             },
             {
-              "en": "It also helps us study and work more effectively.",
-              "vi": "Nó cũng giúp chúng ta học tập và làm việc hiệu quả hơn."
+              "en": "When we are healthy, we can work, study, and do the things we enjoy without worrying too much about getting sick.",
+              "vi": "Khi chúng ta khỏe mạnh, chúng ta có thể làm việc, học tập và làm những việc mình thích mà không phải lo lắng quá nhiều về việc bị ốm."
             },
             {
-              "en": "Not only that, having good health also reduces the risk of getting sick.",
-              "vi": "Không chỉ vậy, có sức khoẻ tốt cũng làm giảm nguy cơ bị ốm."
+              "en": "For example, if I get enough sleep and stay physically active, I usually feel more energetic and productive during the day.",
+              "vi": "Ví dụ, nếu tôi ngủ đủ giấc và duy trì hoạt động thể chất, tôi thường cảm thấy năng động và làm việc hiệu quả hơn trong ngày."
+            },
+            {
+              "en": "I also think good health can reduce stress and improve our overall quality of life.",
+              "vi": "Tôi cũng nghĩ sức khỏe tốt có thể giảm căng thẳng và cải thiện chất lượng cuộc sống tổng thể của chúng ta."
             }
           ]
         }
@@ -682,34 +698,46 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "No",
+              "Don't get sick often",
               "Healthy person",
-              "Exercise & eat healthy"
+              "Only light headache/runny nose once in a while"
             ],
             "b2": [
-              "No",
-              "Take care of health",
-              "Exercise / Eat well / Rest"
+              "Not very often (healthy lifestyle)",
+              "Enough sleep, water, nutritious food",
+              "Occasionally sick when under pressure / lack of rest"
             ]
           },
           "b1": [
             {
-              "en": "No, I don’t often get sick because I believe I am a healthy person.",
-              "vi": "Không, tôi không thường xuyên bị ốm vì tôi tin rằng mình là một người khoẻ mạnh."
+              "en": "No, I don’t often get sick.",
+              "vi": "Không, tôi không thường xuyên bị ốm."
             },
             {
-              "en": "I always try to do exercise and eat healthy food.",
-              "vi": "Tôi luôn cố gắng tập thể dục và ăn thức ăn lành mạnh."
+              "en": "I think it’s because I am a healthy person.",
+              "vi": "Tôi nghĩ đó là vì tôi là một người khỏe mạnh."
+            },
+            {
+              "en": "I only have a light headache or a runny nose once in a while.",
+              "vi": "Thỉnh thoảng tôi mới bị đau đầu nhẹ hoặc sổ mũi."
             }
           ],
           "b2": [
             {
-              "en": "No, I don’t usually get sick because I try to take care of my health.",
-              "vi": "Không, tôi không thường xuyên bị ốm vì tôi cố gắng chăm sóc sức khoẻ của mình."
+              "en": "No, not very often.",
+              "vi": "Không, không thường xuyên lắm."
             },
             {
-              "en": "I exercise regularly, eat well, and get enough rest, so I can stay strong.",
-              "vi": "Tôi tập thể dục thường xuyên, ăn uống tốt và nghỉ ngơi đủ, để tôi có thể duy trì sự khoẻ mạnh."
+              "en": "I think that's partly because I try to take care of myself and maintain a fairly healthy lifestyle.",
+              "vi": "Tôi nghĩ một phần là vì tôi cố gắng tự chăm sóc bản thân và duy trì một lối sống khá lành mạnh."
+            },
+            {
+              "en": "For instance, I usually get enough sleep, drink plenty of water, and try to eat nutritious food.",
+              "vi": "Chẳng hạn, tôi thường ngủ đủ giấc, uống nhiều nước và cố gắng ăn thực phẩm bổ dưỡng."
+            },
+            {
+              "en": "Of course, I still get sick from time to time, especially when I'm under a lot of pressure or don't get enough rest.",
+              "vi": "Tất nhiên, thỉnh thoảng tôi vẫn bị ốm, đặc biệt là khi tôi bị áp lực nhiều hoặc không nghỉ ngơi đầy đủ."
             }
           ]
         },
@@ -720,37 +748,49 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "No",
-              "Only when very sick"
+              "Don't go often",
+              "Only when seriously sick (stomachache, body pain)"
             ],
             "b2": [
-              "No, not very often",
-              "Only when seriously ill",
-              "Rest at home / Take care of myself"
+              "Only when necessary",
+              "Minor problems: rest at home (mild cold -> water & sleep)",
+              "Appointment if lasts several days"
             ]
           },
           "b1": [
             {
-              "en": "No, I don’t go to the doctor very often.",
-              "vi": "Không, tôi không đi khám bác sĩ thường xuyên lắm."
+              "en": "No, I don’t.",
+              "vi": "Không, tôi không."
             },
             {
-              "en": "I only go when I feel very sick.",
-              "vi": "Tôi chỉ đi khi cảm thấy rất ốm."
+              "en": "I don’t often go to the doctor.",
+              "vi": "Tôi không thường xuyên đi khám bác sĩ."
+            },
+            {
+              "en": "I only do it when I get seriously sick like having a serious stomachache or feeling pain in my body.",
+              "vi": "Tôi chỉ làm vậy khi bị ốm nặng như đau bụng dữ dội hoặc thấy đau mỏi trong cơ thể."
             }
           ],
           "b2": [
             {
-              "en": "I don’t go to the doctor very often.",
-              "vi": "Tôi không đi khám bác sĩ thường xuyên lắm."
+              "en": "Not really.",
+              "vi": "Không hẳn."
             },
             {
-              "en": "I usually only go when I feel seriously ill.",
-              "vi": "Tôi thường chỉ đi khi cảm thấy ốm nặng."
+              "en": "I only go to the doctor when I actually need to.",
+              "vi": "Tôi chỉ đi khám bác sĩ khi thực sự cần thiết."
             },
             {
-              "en": "Normally, I prefer to rest at home and take care of myself.",
-              "vi": "Bình thường, tôi thích nghỉ ngơi ở nhà và tự chăm sóc bản thân hơn."
+              "en": "If I have a minor health problem, I usually rest at home and give my body some time to recover.",
+              "vi": "Nếu mắc vấn đề sức khỏe nhỏ, tôi thường nghỉ ngơi ở nhà và cho cơ thể thời gian hồi phục."
+            },
+            {
+              "en": "For example, if I have a mild cold, I normally drink plenty of water and get more sleep.",
+              "vi": "Ví dụ, nếu tôi bị cảm nhẹ, tôi thường uống nhiều nước và ngủ nhiều hơn."
+            },
+            {
+              "en": "However, if the problem lasts for several days, then I would make an appointment with a doctor.",
+              "vi": "Tuy nhiên, nếu vấn đề kéo dài vài ngày, tôi sẽ hẹn gặp bác sĩ."
             }
           ]
         },
@@ -761,35 +801,390 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Yes",
-              "Stay fit & avoid getting sick"
+              "Care more nowadays",
+              "Know importance of health",
+              "Exercise, gym, annual check-up"
             ],
             "b2": [
-              "Yes",
-              "Aware of exercise & healthy eating",
-              "Avoid stress / Better life"
+              "More health-conscious (easier access to info)",
+              "Social media content (exercise, diet, sleep, mental health)",
+              "Aware of long-term habit effects"
             ]
           },
           "b1": [
             {
-              "en": "Yes, I think people care more about their health nowadays because they want to stay fit and avoid getting sick.",
-              "vi": "Có, tôi nghĩ ngày nay mọi người quan tâm nhiều hơn đến sức khoẻ của họ vì họ muốn giữ dáng và tránh bị ốm."
+              "en": "Yes, I think people care more about their health nowadays because today, many people know about the importance of good health.",
+              "vi": "Có, tôi nghĩ ngày nay mọi người quan tâm nhiều hơn đến sức khỏe của họ vì ngày nay, nhiều người đã biết về tầm quan trọng của sức khỏe tốt."
+            },
+            {
+              "en": "For example, more and more people do exercise or go to the gym.",
+              "vi": "Ví dụ, ngày càng có nhiều người tập thể dục hoặc đi tập gym."
+            },
+            {
+              "en": "They also have a health check-up every year.",
+              "vi": "Họ cũng đi khám sức khỏe định kỳ mỗi năm."
             }
           ],
           "b2": [
             {
-              "en": "Yes, I believe people care more about their health nowadays.",
-              "vi": "Có, tôi tin rằng ngày nay mọi người quan tâm đến sức khoẻ của họ nhiều hơn."
+              "en": "Yes, I think so.",
+              "vi": "Vâng, tôi nghĩ vậy."
             },
             {
-              "en": "They are more aware of the importance of exercise and healthy eating.",
-              "vi": "Họ nhận thức rõ hơn về tầm quan trọng của việc tập thể dục và ăn uống lành mạnh."
+              "en": "I think people are becoming more health-conscious nowadays, partly because they have easier access to health-related information.",
+              "vi": "Tôi nghĩ ngày nay mọi người đang trở nên có ý thức hơn về sức khỏe, một phần vì họ tiếp cận dễ dàng hơn với thông tin liên quan đến sức khỏe."
             },
             {
-              "en": "Also, many people want to avoid stress and live a better life.",
-              "vi": "Hơn nữa, nhiều người muốn tránh căng thẳng và sống một cuộc sống tốt hơn."
+              "en": "For example, social media is full of content about exercise, healthy diets, sleep, and mental well-being.",
+              "vi": "Ví dụ, mạng xã hội ngập tràn nội dung về tập thể dục, chế độ ăn uống lành mạnh, giấc ngủ và sức khỏe tinh thần."
+            },
+            {
+              "en": "As a result, people are probably more aware of how their daily habits can affect their health in the long run.",
+              "vi": "Kết quả là, mọi người có thể nhận thức rõ hơn về việc các thói quen hàng ngày có thể ảnh hưởng đến sức khỏe của họ về lâu dài như thế nào."
             }
           ]
+        }
+      ]
+    }
+  ],
+  "groupVocabulary": [
+    {
+      "groupTitle": "KHÁI NIỆM VỀ SỨC KHỎE & TÂM TRÍ (GENERAL HEALTH & MINDSET)",
+      "items": [
+        {
+          "word": "habit",
+          "ipa": "/ˈhæbɪt/",
+          "pos": "n",
+          "vi": "thói quen",
+          "example": "I believe building a good <mark>habit</mark> takes time, but it really improves my daily life."
+        },
+        {
+          "word": "health = well-being",
+          "ipa": "/helθ = ˌwel ˈbiːɪŋ/",
+          "pos": "n",
+          "vi": "sức khỏe = sự khỏe mạnh, bình an",
+          "example": "I do regular exercise because it is essential for my overall <mark>health and well-being</mark>."
+        },
+        {
+          "word": "physical health",
+          "ipa": "/ˈfɪzɪkl helθ/",
+          "pos": "n",
+          "vi": "sức khỏe thể chất",
+          "example": "I eat nutritious food and exercise daily to boost my <mark>physical health</mark>."
+        },
+        {
+          "word": "mental health",
+          "ipa": "/ˈmentl helθ/",
+          "pos": "n",
+          "vi": "sức khỏe tinh thần",
+          "example": "I always try to get enough sleep and take breaks because it is very important for my <mark>mental health</mark>."
+        },
+        {
+          "word": "healthy",
+          "ipa": "/ˈhelθi/",
+          "pos": "adj",
+          "vi": "lành mạnh, khỏe mạnh",
+          "example": "I try to maintain a <mark>healthy</mark> lifestyle by eating fresh food every day."
+        },
+        {
+          "word": "a positive mindset",
+          "ipa": "/ə ˈpɑːzətɪv ˈmaɪndset/",
+          "pos": "n",
+          "vi": "tư duy / tinh thần tích cực",
+          "example": "Exercising every morning helps me start the day with <mark>a positive mindset</mark>."
+        },
+        {
+          "word": "keep my mind sharp",
+          "ipa": "/kiːp maɪ maɪnd ʃɑːrp/",
+          "pos": "phrase",
+          "vi": "giữ cho trí óc minh mẫn",
+          "example": "Working out regularly helps me <mark>keep my mind sharp</mark> and work more productively."
+        },
+        {
+          "word": "energy levels",
+          "ipa": "/ˈenərdʒi ˈlevlz/",
+          "pos": "n",
+          "vi": "mức năng lượng",
+          "example": "Eating well and sleeping early help me maintain my <mark>energy levels</mark> throughout the day."
+        },
+        {
+          "word": "quality of life",
+          "ipa": "/ˈkwɑːləti əv laɪf/",
+          "pos": "n",
+          "vi": "chất lượng cuộc sống",
+          "example": "I believe maintaining good health significantly improves my overall <mark>quality of life</mark>."
+        },
+        {
+          "word": "health-conscious",
+          "ipa": "/ˈhelθ ˌkɑːnʃəs/",
+          "pos": "adj",
+          "vi": "có ý thức bảo vệ sức khỏe",
+          "example": "I am becoming more <mark>health-conscious</mark>, so I choose fresh foods instead of fast food."
+        },
+        {
+          "word": "health-related information",
+          "ipa": "/ˈhelθ rɪˌleɪtɪd ˌɪnfərˈmeɪʃn/",
+          "pos": "n",
+          "vi": "thông tin liên quan đến sức khỏe",
+          "example": "I often search for <mark>health-related information</mark> online to learn better daily habits."
+        }
+      ]
+    },
+    {
+      "groupTitle": "THÓI QUEN & KỶ LUẬT (HABITS & ROUTINE)",
+      "items": [
+        {
+          "word": "a daily routine",
+          "ipa": "/ə ˈdeɪli ruːˈtiːn/",
+          "pos": "n",
+          "vi": "thói quen / lịch trình hàng ngày",
+          "example": "Doing exercise every morning has become an essential part of my <mark>daily routine</mark>."
+        },
+        {
+          "word": "start my day",
+          "ipa": "/stɑːrt maɪ deɪ/",
+          "pos": "phrase",
+          "vi": "bắt đầu ngày mới của tôi",
+          "example": "I usually <mark>start my day</mark> with a short walk and a cup of warm water."
+        },
+        {
+          "word": "set an alarm",
+          "ipa": "/set ən əˈlɑːrm/",
+          "pos": "phrase",
+          "vi": "đặt báo thức",
+          "example": "Before going to bed, I always <mark>set an alarm</mark> for 6 a.m. to get up on time."
+        },
+        {
+          "word": "discipline",
+          "ipa": "/ˈdɪsəplɪn/",
+          "pos": "n",
+          "vi": "tính kỷ luật",
+          "example": "I think maintaining a good habit for a long time requires a lot of <mark>discipline</mark>."
+        },
+        {
+          "word": "factor",
+          "ipa": "/ˈfæktər/",
+          "pos": "n",
+          "vi": "yếu tố",
+          "example": "For me, discipline is the most important <mark>factor</mark> in sticking to my workout routine."
+        }
+      ]
+    },
+    {
+      "groupTitle": "THÓI QUEN TỐT & TẬP LUYỆN (GOOD HABITS & EXERCISE)",
+      "items": [
+        {
+          "word": "regular exercise",
+          "ipa": "/ˈreɡjələr ˈeksərsaɪz/",
+          "pos": "n",
+          "vi": "việc tập thể dục thường xuyên",
+          "example": "I believe <mark>regular exercise</mark> plays a key role in keeping my body strong."
+        },
+        {
+          "word": "work out at the gym",
+          "ipa": "/wɜːrk aʊt ət ðə dʒɪm/",
+          "pos": "phrase",
+          "vi": "tập gym, tập thể hình",
+          "example": "I usually <mark>work out at the gym</mark> three times a week to stay fit."
+        },
+        {
+          "word": "go for a walk",
+          "ipa": "/ɡoʊ fər ə wɔːk/",
+          "pos": "phrase",
+          "vi": "đi dạo",
+          "example": "In the morning, I often <mark>go for a walk</mark> in the park to enjoy the fresh air."
+        },
+        {
+          "word": "the type of exercise",
+          "ipa": "/ðə taɪp əv ˈeksərsaɪz/",
+          "pos": "phrase",
+          "vi": "loại hình bài tập thể dục",
+          "example": "When I exercise alone, I can choose <mark>the type of exercise</mark> that suits me best."
+        },
+        {
+          "word": "the time that works best for me",
+          "ipa": "/ðə taɪm ðæt wɜːrks best fər miː/",
+          "pos": "phrase",
+          "vi": "thời gian phù hợp nhất với tôi",
+          "example": "I prefer exercising alone because I can pick <mark>the time that works best for me</mark>."
+        },
+        {
+          "word": "sleep earlier",
+          "ipa": "/sliːp ˈɜːrliər/",
+          "pos": "phrase",
+          "vi": "đi ngủ sớm hơn",
+          "example": "I am trying to <mark>sleep earlier</mark> so that I can wake up full of energy."
+        },
+        {
+          "word": "do exercise",
+          "ipa": "/duː ˈeksərsaɪz/",
+          "pos": "phrase",
+          "vi": "tập thể dục",
+          "example": "I try to <mark>do exercise</mark> every day because it helps me reduce stress."
+        },
+        {
+          "word": "do some light exercises",
+          "ipa": "/duː səm laɪt ˈeksərsaɪzɪz/",
+          "pos": "phrase",
+          "vi": "tập một số bài tập nhẹ",
+          "example": "Before starting my work, I usually <mark>do some light exercises</mark> at home."
+        },
+        {
+          "word": "have a healthy diet = eat well",
+          "ipa": "/hæv ə ˈhelθi ˈdaɪət = iːt wel/",
+          "pos": "phrase",
+          "vi": "có chế độ ăn lành mạnh = ăn uống tốt",
+          "example": "To keep a fit body, I always try to <mark>have a healthy diet</mark> and <mark>eat well</mark>."
+        },
+        {
+          "word": "get enough sleep",
+          "ipa": "/ɡet ɪˈnʌf sliːp/",
+          "pos": "phrase",
+          "vi": "ngủ đủ giấc",
+          "example": "I always try to <mark>get enough sleep</mark> so I can focus better on my studies during the day."
+        },
+        {
+          "word": "stay physically active",
+          "ipa": "/steɪ ˈfɪzɪkli ˈæktɪv/",
+          "pos": "phrase",
+          "vi": "duy trì hoạt động thể chất",
+          "example": "Cycling or walking every day helps me <mark>stay physically active</mark>."
+        }
+      ]
+    },
+    {
+      "groupTitle": "THÓI QUEN XẤU & ẢNH HƯỞNG (BAD HABITS & EFFECTS)",
+      "items": [
+        {
+          "word": "go to bed late",
+          "ipa": "/ɡoʊ tə bed leɪt/",
+          "pos": "phrase",
+          "vi": "đi ngủ muộn",
+          "example": "If I <mark>go to bed late</mark>, I always feel exhausted the next morning."
+        },
+        {
+          "word": "stay up late",
+          "ipa": "/steɪ ʌp leɪt/",
+          "pos": "phrase",
+          "vi": "thức khuya",
+          "example": "I have a bad habit of <mark>staying up late</mark> to scroll through social media."
+        },
+        {
+          "word": "affect",
+          "ipa": "/əˈfekt/",
+          "pos": "v",
+          "vi": "ảnh hưởng đến",
+          "example": "I know that staying up late really <mark>affects</mark> my physical health and concentration."
+        },
+        {
+          "word": "deal with stress",
+          "ipa": "/diːl wɪð stres/",
+          "pos": "phrase",
+          "vi": "đối phó / giải quyết căng thẳng",
+          "example": "Whenever I feel overwhelmed, doing exercise helps me <mark>deal with stress</mark> effectively."
+        }
+      ]
+    },
+    {
+      "groupTitle": "SỨC KHỎE & HỒI PHỤC (HEALTH PROBLEMS & RECOVERY)",
+      "items": [
+        {
+          "word": "(minor) health problem",
+          "ipa": "/ˈmaɪnər helθ ˈprɑːbləm/",
+          "pos": "phrase",
+          "vi": "vấn đề sức khỏe (nhẹ)",
+          "example": "If I only have a <mark>minor health problem</mark>, I usually just rest at home."
+        },
+        {
+          "word": "have a light headache",
+          "ipa": "/hæv ə laɪt ˈhedeɪk/",
+          "pos": "phrase",
+          "vi": "bị đau đầu nhẹ",
+          "example": "I <mark>have a light headache</mark> today because I stayed up late last night."
+        },
+        {
+          "word": "have a runny nose",
+          "ipa": "/hæv ə ˈrʌni noʊz/",
+          "pos": "phrase",
+          "vi": "bị sổ mũi",
+          "example": "Whenever the weather changes suddenly, I often <mark>have a runny nose</mark>."
+        },
+        {
+          "word": "have a serious stomachache",
+          "ipa": "/hæv ə ˈsɪriəs ˈstʌmək-eɪk/",
+          "pos": "phrase",
+          "vi": "bị đau bụng nặng / dữ dội",
+          "example": "I once had to go to the doctor because I <mark>had a serious stomachache</mark>."
+        },
+        {
+          "word": "feel pain in my body",
+          "ipa": "/fiːl peɪn ɪn maɪ ˈbɑːdi/",
+          "pos": "phrase",
+          "vi": "cảm thấy đau mỏi trong cơ thể",
+          "example": "After working out too hard at the gym, I <mark>feel pain in my body</mark>."
+        },
+        {
+          "word": "have a cold",
+          "ipa": "/hæv ə koʊld/",
+          "pos": "phrase",
+          "vi": "bị cảm lạnh",
+          "example": "I try to drink warm water whenever I <mark>have a cold</mark>."
+        },
+        {
+          "word": "recover",
+          "ipa": "/rɪˈkʌvər/",
+          "pos": "v",
+          "vi": "hồi phục / bình phục",
+          "example": "When I catch a cold, I usually rest at home to give my body time to <mark>recover</mark>."
+        },
+        {
+          "word": "rest = take some rest = get enough rest",
+          "ipa": "/rest = teɪk səm rest = ɡet ɪˈnʌf rest/",
+          "pos": "phrase",
+          "vi": "nghỉ ngơi = nghỉ ngơi một chút = nghỉ ngơi đủ",
+          "example": "Whenever I feel sick, I usually stay home to <mark>take some rest</mark> and <mark>get enough rest</mark>."
+        },
+        {
+          "word": "take care of myself",
+          "ipa": "/teɪk ker əv maɪˈself/",
+          "pos": "phrase",
+          "vi": "tự chăm sóc bản thân",
+          "example": "I try to eat nutritious food and sleep early to <mark>take care of myself</mark>."
+        },
+        {
+          "word": "take medicine",
+          "ipa": "/teɪk ˈmedsn/",
+          "pos": "phrase",
+          "vi": "uống thuốc",
+          "example": "Whenever I get sick, I always <mark>take medicine</mark> after meals as instructed by my doctor."
+        },
+        {
+          "word": "drink plenty of water",
+          "ipa": "/drɪŋk ˈplenti əv ˈwɔːtər/",
+          "pos": "phrase",
+          "vi": "uống nhiều nước",
+          "example": "Whenever I get ill, I always <mark>drink plenty of water</mark> to stay hydrated."
+        },
+        {
+          "word": "get more sleep",
+          "ipa": "/ɡet mɔːr sliːp/",
+          "pos": "phrase",
+          "vi": "ngủ nhiều hơn",
+          "example": "When I have a cold, I try to <mark>get more sleep</mark> to help my body recover faster."
+        },
+        {
+          "word": "make an appointment with a doctor",
+          "ipa": "/meɪk ən əˈpɔɪntmənt wɪð ə ˈdɑːktər/",
+          "pos": "phrase",
+          "vi": "hẹn gặp / đặt lịch khám với bác sĩ",
+          "example": "If my symptoms last for several days, I will <mark>make an appointment with a doctor</mark>."
+        },
+        {
+          "word": "have a health check-up",
+          "ipa": "/hæv ə helθ tʃek ʌp/",
+          "pos": "phrase",
+          "vi": "đi khám sức khỏe tổng quát",
+          "example": "I try to <mark>have a health check-up</mark> every year to make sure my body is healthy."
         }
       ]
     }

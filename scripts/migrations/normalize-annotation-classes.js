@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataDir = path.join(__dirname, 'data');
+const projectRoot = path.resolve(__dirname, '..', '..');
+const dataDir = path.join(projectRoot, 'data');
 const files = fs.readdirSync(dataDir).filter(f => f.startsWith('group') && f.endsWith('.js'));
 
 for (const file of files) {

@@ -1,5 +1,7 @@
 const fs = require('fs');
-let content = fs.readFileSync('/Users/nguyenminhtung/Tạo Website/vstep-speaking-part01/data/group3.js', 'utf8');
+const path = require('path');
+const groupPath = path.resolve(__dirname, '..', '..', 'data', 'group3.js');
+let content = fs.readFileSync(groupPath, 'utf8');
 
 const idx = content.indexOf('subtopics: [');
 if (idx !== -1) {
@@ -186,7 +188,7 @@ if (idx !== -1) {
     };
 `;
     content = content.substring(0, idx) + newSubtopics;
-    fs.writeFileSync('/Users/nguyenminhtung/Tạo Website/vstep-speaking-part01/data/group3.js', content);
+    fs.writeFileSync(groupPath, content);
     console.log("Updated group3.js successfully with actual content.");
 } else {
     console.log("Could not find 'subtopics: ['");

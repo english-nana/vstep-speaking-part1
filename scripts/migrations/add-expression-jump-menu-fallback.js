@@ -1,5 +1,7 @@
 const fs = require('fs');
-let content = fs.readFileSync('index.html', 'utf8');
+const path = require('path');
+const projectRoot = path.resolve(__dirname, '..', '..');
+let content = fs.readFileSync(path.join(projectRoot, 'index.html'), 'utf8');
 
 const anchor = "{renderStructures(sharedVocabData.expressions, true)}";
 if (content.includes(anchor)) {
@@ -45,7 +47,7 @@ ${replacement}
   
   const newContent = content.replace(regex, newSection);
   if (content !== newContent) {
-    fs.writeFileSync('index.html', newContent, 'utf8');
+    fs.writeFileSync(path.join(projectRoot, 'index.html'), newContent, 'utf8');
     console.log('Successfully updated index.html');
   } else {
     console.log('Regex did not match.');

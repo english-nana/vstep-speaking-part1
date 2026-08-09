@@ -1140,6 +1140,16 @@ var group1 = {
               "en": "From the way I see it, <span class='text-rose-500 font-bold'>ý kiến bản thân</span>",
               "vi": "Theo cách tôi nhìn nhận vấn đề, <span class='text-rose-500 font-bold'>ý kiến bản thân</span>.",
               "example": "From the way I see it, <span class='text-rose-500 font-bold'>reading books helps open our mind</span>."
+            },
+            {
+              "en": "I’m aware that <span class='text-rose-500 font-bold'>sự thật / điều gì đó</span>",
+              "vi": "Tôi nhận thức được / Tôi biết rằng <span class='text-rose-500 font-bold'>điều gì đó</span>.",
+              "example": "I'm aware that <span class='text-rose-500 font-bold'>doing exercise is a good habit for my health</span>."
+            },
+            {
+              "en": "S + be probably more aware of <span class='text-rose-500 font-bold'>vấn đề / điều gì đó</span>",
+              "vi": "Ai đó có lẽ nhận thức rõ hơn về <span class='text-rose-500 font-bold'>điều gì đó</span>.",
+              "example": "People are probably more aware of <span class='text-rose-500 font-bold'>how daily habits affect their health in the long run</span>."
             }
           ]
         },
@@ -1175,6 +1185,11 @@ var group1 = {
               "en": "I mean <span class='text-rose-500 font-bold'>giải thích thêm</span>",
               "vi": "Ý của tôi là / Nghĩa là <span class='text-rose-500 font-bold'>giải thích rõ hơn</span>.",
               "example": "I don't like fast food. I mean <span class='text-rose-500 font-bold'>it is not good for my health</span>."
+            },
+            {
+              "en": "Partly because <span class='text-rose-500 font-bold'>mệnh đề nguyên nhân</span>",
+              "vi": "Một phần là vì <span class='text-rose-500 font-bold'>nguyên nhân</span>.",
+              "example": "I don't often get sick, partly because <span class='text-rose-500 font-bold'>I try to take care of myself and eat well</span>."
             }
           ]
         },
@@ -1295,6 +1310,16 @@ var group1 = {
               "en": "Without worrying about <span class='text-rose-500 font-bold'>cái gì đó</span>",
               "vi": "Mà không phải lo lắng về <span class='text-rose-500 font-bold'>việc gì đó / cái gì đó</span>.",
               "example": "I want a stable job so I can live without worrying about <span class='text-rose-500 font-bold'>money</span>."
+            },
+            {
+              "en": "When it comes to <span class='text-rose-500 font-bold'>chủ đề / khía cạnh nào đó</span>",
+              "vi": "Khi nói đến / Khi đề cập đến <span class='text-rose-500 font-bold'>chủ đề / khía cạnh nào đó</span>.",
+              "example": "When it comes to <span class='text-rose-500 font-bold'>my diet and sleep</span>, I always try to maintain a balanced lifestyle."
+            },
+            {
+              "en": "Have easier access to <span class='text-rose-500 font-bold'>thông tin / dịch vụ nào đó</span>",
+              "vi": "Tiếp cận dễ dàng hơn với <span class='text-rose-500 font-bold'>thông tin / dịch vụ nào đó</span>.",
+              "example": "People nowadays have easier access to <span class='text-rose-500 font-bold'>health-related information</span> on social media."
             }
           ]
         },
@@ -1617,6 +1642,27 @@ var group1 = {
           "pos": "phrase",
           "vi": "đi chơi với bạn bè",
           "example": "On weekends, I usually hang out with my friends."
+        },
+        {
+          "word": "frequently = regularly",
+          "ipa": "/ˈfriːkwəntli = ˈreɡjələrli/",
+          "pos": "adv",
+          "vi": "thường xuyên",
+          "example": "I do exercise frequently to stay healthy and maintain a positive mindset."
+        },
+        {
+          "word": "productively",
+          "ipa": "/prəˈdʌktɪvli/",
+          "pos": "adv",
+          "vi": "một cách hiệu quả / có năng suất",
+          "example": "Keeping my mind sharp helps me work and study more productively."
+        },
+        {
+          "word": "in the long run",
+          "ipa": "/ɪn ðə lɔːŋ rʌn/",
+          "pos": "phrase",
+          "vi": "về lâu dài / trong dài hạn",
+          "example": "Maintaining good daily habits will benefit your health in the long run."
         }
       ]
     }

@@ -1,7 +1,9 @@
 const fs = require('fs');
+const path = require('path');
+const groupPath = path.resolve(__dirname, '..', '..', 'data', 'group1.js');
 
 try {
-  let fileContent = fs.readFileSync('data/group1.js', 'utf8');
+  let fileContent = fs.readFileSync(groupPath, 'utf8');
   let match = fileContent.match(/var\s+group1\s*=\s*(\{[\s\S]*?\});?\s*$/);
   
   if (!match) {
@@ -39,7 +41,7 @@ try {
   }
 
   const newContent = 'var group1 = ' + JSON.stringify(group1Data, null, 2) + ';\n';
-  fs.writeFileSync('data/group1.js', newContent, 'utf8');
+  fs.writeFileSync(groupPath, newContent, 'utf8');
   console.log('Done modifying group1.js');
 } catch (e) {
   console.error("Error:", e);

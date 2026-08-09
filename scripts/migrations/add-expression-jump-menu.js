@@ -1,7 +1,9 @@
 const fs = require('fs');
+const path = require('path');
+const projectRoot = path.resolve(__dirname, '..', '..');
 
 try {
-  let content = fs.readFileSync('index.html', 'utf8');
+  let content = fs.readFileSync(path.join(projectRoot, 'index.html'), 'utf8');
 
   // Replace expressions tab content
   const target = `{activeSharedTab === 'expressions' && sharedVocabData.expressions && sharedVocabData.expressions.length > 0 && (
@@ -43,7 +45,7 @@ try {
 
   if (content.includes(target)) {
     content = content.replace(target, replacement);
-    fs.writeFileSync('index.html', content, 'utf8');
+    fs.writeFileSync(path.join(projectRoot, 'index.html'), content, 'utf8');
     console.log("Updated index.html successfully.");
   } else {
     console.log("Could not find the target string in index.html");
