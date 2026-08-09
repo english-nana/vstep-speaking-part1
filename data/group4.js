@@ -291,29 +291,45 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Fast food",
-              "Delicious & convenient"
+              "Vietnamese food",
+              "Tasty & many different dishes"
             ],
             "b2": [
-              "Fast food",
-              "Tasty & convenient",
-              "Hang out with friends / Little free time"
+              "Vietnamese food",
+              "Different flavors & many dishes",
+              "Fresh vegetables / Not too heavy"
             ]
           },
           "b1": [
             {
-              "en": "I would say my favorite food is fast food because it is delicious and convenient.",
-              "vi": "Tôi muốn nói món ăn yêu thích của tôi là đồ ăn nhanh vì nó ngon và tiện lợi."
+              "en": "My favorite food is Vietnamese food.",
+              "vi": "Món ăn yêu thích của tôi là món ăn Việt Nam."
+            },
+            {
+              "en": "I like it because it is tasty and has many different dishes.",
+              "vi": "Tôi thích món ăn Việt Nam vì nó ngon và có nhiều món ăn khác nhau."
+            },
+            {
+              "en": "For example, I really like pho and banh mi.",
+              "vi": "Ví dụ, tôi rất thích phở và bánh mì."
             }
           ],
           "b2": [
             {
-              "en": "I would say my favorite type of food is fast food because it is tasty and convenient.",
-              "vi": "Tôi muốn nói loại thức ăn yêu thích của tôi là đồ ăn nhanh vì nó ngon và tiện lợi."
+              "en": "My favorite type of food is Vietnamese food.",
+              "vi": "Loại thức ăn yêu thích của tôi là món ăn Việt Nam."
             },
             {
-              "en": "I often eat it when I hang out with my friends, and it’s also a good choice when I don’t have much free time.",
-              "vi": "Tôi thường ăn nó khi đi chơi với bạn bè, và đó cũng là một lựa chọn tốt khi tôi không có nhiều thời gian rảnh."
+              "en": "I like it because it has a lot of different flavors and there are many dishes to choose from.",
+              "vi": "Tôi thích món ăn Việt Nam vì nó có nhiều hương vị khác nhau và có nhiều món để lựa chọn."
+            },
+            {
+              "en": "For example, I really enjoy eating pho, banh mi, and grilled meat.",
+              "vi": "Ví dụ, tôi rất thích ăn phở, bánh mì và thịt nướng."
+            },
+            {
+              "en": "I also like Vietnamese food because it usually has fresh vegetables, so it doesn't feel too heavy.",
+              "vi": "Tôi cũng thích món ăn Việt Nam vì nó thường có rau tươi nên không tạo cảm giác quá ngấy."
             }
           ]
         },
@@ -324,29 +340,46 @@ var group4 = {
           },
           "ideaMap": {
             "b1": [
-              "Once or twice a week",
-              "With friends"
+              "Two or three times a week",
+              "Busy / Go out with friends",
+              "Eating at home is cheaper"
             ],
             "b2": [
-              "Once or twice a week (weekend)",
-              "Hang out / Try new food",
-              "Relax after a busy week"
+              "Two or three times a week",
+              "Busy / Spend time with friends",
+              "Cooking at home is cheaper"
             ]
           },
           "b1": [
             {
-              "en": "Let me see, I eat out about once or twice a week with my friends.",
-              "vi": "Để tôi xem nào, tôi đi ăn ngoài khoảng một hoặc hai lần một tuần với bạn bè."
+              "en": "I eat out about two or three times a week.",
+              "vi": "Tôi đi ăn ngoài khoảng hai hoặc ba lần một tuần."
+            },
+            {
+              "en": "I usually eat out when I'm busy or when I go out with my friends.",
+              "vi": "Tôi thường đi ăn ngoài khi bận hoặc khi đi chơi với bạn bè."
+            },
+            {
+              "en": "I don't eat out every day because eating at home is cheaper.",
+              "vi": "Tôi không đi ăn ngoài mỗi ngày vì ăn ở nhà rẻ hơn."
             }
           ],
           "b2": [
             {
-              "en": "Let me see, I usually eat out once or twice a week, especially at the weekend.",
-              "vi": "Để tôi xem nào, tôi thường đi ăn ngoài một hoặc hai lần một tuần, đặc biệt là vào cuối tuần."
+              "en": "I eat out about two or three times a week.",
+              "vi": "Tôi đi ăn ngoài khoảng hai hoặc ba lần một tuần."
             },
             {
-              "en": "It’s a good chance to hang out with my friends, try new food, and relax after a busy week.",
-              "vi": "Đó là một cơ hội tốt để đi chơi với bạn bè, thử món ăn mới và thư giãn sau một tuần bận rộn."
+              "en": "I usually eat out when I'm busy or when I want to spend time with my friends.",
+              "vi": "Tôi thường đi ăn ngoài khi bận hoặc khi muốn dành thời gian với bạn bè."
+            },
+            {
+              "en": "For example, we sometimes go to a restaurant or a small food shop after class.",
+              "vi": "Ví dụ, đôi khi chúng tôi đến một nhà hàng hoặc một quán ăn nhỏ sau giờ học."
+            },
+            {
+              "en": "I don't eat out every day because cooking at home is usually cheaper.",
+              "vi": "Tôi không đi ăn ngoài mỗi ngày vì nấu ăn ở nhà thường rẻ hơn."
             }
           ]
         },
@@ -358,32 +391,46 @@ var group4 = {
           "ideaMap": {
             "b1": [
               "Yes",
-              "Good for health"
+              "Stay healthy & have more energy",
+              "Fruit, vegetables & plenty of water"
             ],
             "b2": [
-              "Yes, as much as possible",
-              "Stay fit / Energy / Avoid getting sick",
-              "Sometimes fast food (busy/enjoy)"
+              "Yes, most of the time",
+              "Stay fit & have more energy",
+              "Fruit, vegetables & enough water",
+              "Sometimes fast food"
             ]
           },
           "b1": [
             {
-              "en": "Yes, I try to eat healthy food because it is good for my health.",
-              "vi": "Có, tôi cố gắng ăn thức ăn lành mạnh vì nó tốt cho sức khoẻ của tôi."
+              "en": "Yes, I do.",
+              "vi": "Có."
+            },
+            {
+              "en": "I try to eat healthy food because I want to stay healthy and have more energy.",
+              "vi": "Tôi cố gắng ăn thức ăn lành mạnh vì muốn giữ sức khỏe và có nhiều năng lượng hơn."
+            },
+            {
+              "en": "For example, I eat more fruit and vegetables and drink plenty of water.",
+              "vi": "Ví dụ, tôi ăn nhiều trái cây và rau củ hơn, đồng thời uống nhiều nước."
             }
           ],
           "b2": [
             {
-              "en": "Yes, I try to eat healthy food as much as possible.",
-              "vi": "Có, tôi cố gắng ăn thức ăn lành mạnh nhiều nhất có thể."
+              "en": "Yes, I try to eat healthy food most of the time.",
+              "vi": "Có, hầu hết thời gian tôi cố gắng ăn thức ăn lành mạnh."
             },
             {
-              "en": "It helps me stay fit, have more energy, and avoid getting sick.",
-              "vi": "Nó giúp tôi giữ dáng, có nhiều năng lượng hơn và tránh bị ốm."
+              "en": "I think a healthy diet helps me stay fit and gives me more energy.",
+              "vi": "Tôi nghĩ chế độ ăn lành mạnh giúp tôi giữ dáng và có nhiều năng lượng hơn."
             },
             {
-              "en": "However, sometimes I still eat fast food when I’m busy or want to enjoy myself.",
-              "vi": "Tuy nhiên, đôi khi tôi vẫn ăn đồ ăn nhanh khi tôi bận rộn hoặc muốn tự thưởng cho bản thân."
+              "en": "For example, I try to eat more fruit and vegetables and drink enough water every day.",
+              "vi": "Ví dụ, tôi cố gắng ăn nhiều trái cây và rau củ hơn, đồng thời uống đủ nước mỗi ngày."
+            },
+            {
+              "en": "However, I still eat fast food sometimes because I enjoy it, but I try not to eat it too often.",
+              "vi": "Tuy nhiên, đôi khi tôi vẫn ăn đồ ăn nhanh vì thích, nhưng cố gắng không ăn quá thường xuyên."
             }
           ]
         }
